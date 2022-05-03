@@ -18,7 +18,8 @@ self.addEventListener('install', function(event) {
 		'/quizimages/q8.jpg',
 		'/quizimages/q9.jpg',
 		'/quizimages/q10.jpg',
-		'/quizimages/jojo.png',
+		'/quizimages/jojo.webp',
+    '/quizimages/jojo2.webp',
 		'/quizimages/favicon.ico',
         '/notfound.txt'
       ]);
