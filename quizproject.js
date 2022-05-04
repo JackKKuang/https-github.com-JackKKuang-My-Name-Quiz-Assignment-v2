@@ -153,7 +153,7 @@ let questions = [
  // Update the count down every 1 second
 function timer() {
 	
-	document.getElementById("moving").style.backgroundImage = "url('quizImages/jojo.png')";
+	document.getElementById("moving").style.backgroundImage = "url('quizimages/jojo.webp')";
 	
 	 var countDownDate = 200;
 	 var width = 0;
@@ -193,7 +193,7 @@ function timer() {
 		  }else{
 			  
 			if(countDownDate == 0){
-				document.getElementById("moving").style.backgroundImage = "url('quizImages/jojo2.png')";
+				document.getElementById("moving").style.backgroundImage = "url('quizimages/jojo2.webp')";
 				
 				document.getElementById("a").style.backgroundColor = "#ccc";
 				document.getElementById("b").style.backgroundColor = "#ccc";
